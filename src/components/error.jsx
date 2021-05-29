@@ -7,8 +7,7 @@ return(
 <React.Fragment>
 <div className="error">
     <div className="error__content">
-        
-        <h1 className="error__title">{props.title|| " 404 ERROR"}</h1>
+        <h1 className="error__title">{props.title|| "404_Error"}</h1>
        
  <h1 className="error__title">{props.title|| "Page not found"}</h1>
     
